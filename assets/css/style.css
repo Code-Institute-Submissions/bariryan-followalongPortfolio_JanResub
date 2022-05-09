@@ -1,6 +1,4 @@
-body {
-  background-color: black;
-}
+
 
 .gallery {
   border: 3px solid darkblue;
@@ -98,4 +96,14 @@ body {
   max-width: 60rem;
   margin: 0 auto;
   font-size: 112%;
+}
+
+.contact-box{
+  width: 500px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 #999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
 }
