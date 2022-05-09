@@ -99,6 +99,7 @@ body {
 }
 
 .contact-box{
+  
   width: 500px;
   background-color: #fff;
   box-shadow: 0 0 20px 0 #999;
@@ -121,7 +122,4 @@ form{
     border: 1px solid #333333;
     border-radius: 14px;
     outline: none;
-
-
-
 }
