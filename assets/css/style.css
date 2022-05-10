@@ -1,7 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=EB+Garamond&family=Lato:wght@300&family=Montserrat:ital,wght@1,300&family=Nunito+Sans:wght@300&family=Source+Sans+Pro:wght@200&display=swap');
 
 .gallery {
-  border: 3px solid darkblue;
+  border: 5px solid #333333;
   max-width: 1014px;
   margin: auto;
   background-color: #ccc;
@@ -84,13 +84,13 @@ img:hover {
     margin-top: 0.2rem;
  }
 }
-/** * Generic Styling */
+/* overall styling section */
 body {
   background: #eee;
   min-height: 100vh;
   box-sizing: border-box;
   padding-top: 10vh;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: 300;
   line-height: 1.5;
   max-width: 60rem;
