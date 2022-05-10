@@ -100,10 +100,6 @@ body {
 
 
 
-form{
- 
-  margin: 35px;
-}
 
 .input-field{
 
@@ -113,7 +109,7 @@ form{
     padding-left: 10px;
     padding-right: 10px;
     border: 5px solid #333333;
-    border-radius: 14px;
+    border-radius: 44px;
     outline: none;
     
 }
