@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=EB+Garamond&family=Lato:wght@300&family=Montserrat:ital,wght@1,300&family=Nunito+Sans:wght@300&family=Source+Sans+Pro:wght@200&display=swap');
 
+
+/*Gallery*/
+
 .gallery {
   border: 5px solid #333333;
   max-width: 1014px;
@@ -13,15 +16,17 @@
   font-size: 0;
   flex-flow: row wrap;
   display: flex;
+  
 }
 
 .gallery div {
-  flex: auto;
+  flex:auto;
   width: 200px;
   margin: 0.5vw;
 }
 
 .gallery div img {
+  
   width: 100%;
   height: auto;
 }
@@ -33,7 +38,7 @@ img {
   filter: grayscale(100%);
   filter: saturate(0);
   transition: all .3s ease;
-  /*   box-shadow: 2px 2px 5px; */
+  
 }
 
 img:hover {
@@ -42,7 +47,7 @@ img:hover {
   box-shadow: 0px 0px 5px;
 }
 
-/** * Tabs */
+/*Tab Navigation*/
 .tabs {
   display: flex;
   flex-wrap: wrap;
@@ -114,6 +119,7 @@ body {
     outline: none;
     
 }
+/*font awesome icons*/
 
 .footer-container{
 display: flex;
