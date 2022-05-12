@@ -114,3 +114,19 @@ body {
     outline: none;
     
 }
+
+.footer-container{
+ display: flex;
+  
+  border-radius: 44px;
+ 
+  justify-content:center;
+ 
+ 
+}
+
+.footer-container > div{
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+}
