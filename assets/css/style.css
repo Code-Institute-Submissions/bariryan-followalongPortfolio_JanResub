@@ -99,7 +99,7 @@ body {
 }
 
 
-
+/*form*/
 
 .input-field{
   flex-flow: row wrap;
@@ -116,17 +116,19 @@ body {
 }
 
 .footer-container{
- display: flex;
-  
-  border-radius: 44px;
- 
-  justify-content:center;
+display: flex;
+border-radius: 44px;
+justify-content:center;
  
  
 }
 
 .footer-container > div{
-  display: flex;
-  padding-left: 50px;
-  padding-right: 50px;
+ 
+display: flex;
+color: black;
+padding-left: 50px;
+padding-right: 50px;
+  
 }
+
