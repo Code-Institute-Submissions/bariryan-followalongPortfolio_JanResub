@@ -122,7 +122,9 @@ body {
 /*font awesome icons*/
 
 .footer-container{
+ 
 display: flex;
+flex-wrap: wrap;
 border-radius: 44px;
 justify-content:center;
  
@@ -130,11 +132,13 @@ justify-content:center;
 }
 
 .footer-container > div{
- 
-display: flex;
-color: black;
 padding-left: 50px;
-padding-right: 50px;
-  
+padding-right: 50px; 
+
+
+
 }
+
+
+
 
