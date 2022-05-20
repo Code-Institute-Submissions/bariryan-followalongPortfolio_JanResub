@@ -16,11 +16,16 @@ I have created a portfolio to showcase my skills and projects. To achieve this, 
 
  created fluid layouts throughout the page with a mixture of Grid and Flexbox. The app is fully responsive on multiple screen widths.
 
+ The inital idea of a tab based system which uses css and flexbox to style a simple tab based navigation must be credited to 
+ [https://codepen.io/josh_vogt/pen/EaaZbP] 
+
  ## H1 Fontawesome and Google Fonts
 
- https://codepen.io/josh_vogt/pen/EaaZbP (credit for the tab layout system)
+Also the use of icons on the main page attempt to consolidate all affilate social media links into a consise visual representation which is easy to recognise and navigate.
 
- what it is that they want to achieve and how your project is the best way to help them achieve these things.
+ ## Contact form sign up and message service
+
+ This page will allow the user to get signed up to Hi, I'm Barry to start their communication with the Artist. The user will be able specify if they would like to commission new work or buy exsisting work. The user will be asked to submit their full name and email address with the option of leaving a comment if nessecceary. 
 
 ### Existing Features
 
