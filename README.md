@@ -5,7 +5,7 @@ Welcome to Hi, I'm Barry. Visit the site
 
 This is the oline gallery and shop for me, Barry Ryan. It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. 
 
-I hope that this site can be a connection hub to meet both my clients interests and  
+I hope that this site can be a connection hub to meet both my clients interests and exhibite my work to a wider audience online.
 
 # Features 
 
