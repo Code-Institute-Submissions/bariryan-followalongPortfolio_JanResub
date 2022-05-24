@@ -9,6 +9,8 @@ I hope that this site can be a connection hub to meet both my clients interests 
 
 # Features 
 
+![hello](https://github.com/bariryan/followalongPortfolio/blob/master/assets/images/love_running_mockup.png)
+
 
 ## H1 CSS Grid & Flexbox
 
