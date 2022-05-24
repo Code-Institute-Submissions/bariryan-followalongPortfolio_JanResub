@@ -29,18 +29,11 @@ Also the use of icons on the main page attempt to consolidate all affilate socia
  This page will allow the user to get signed up to Hi, I'm Barry to start their communication with the Artist. The user will be able specify if they would like to commission new work or buy exsisting work. The user will be asked to submit their full name and email address with the option of leaving a comment if nessecceary. 
 
 
-
 # Navigation Bar
 
   Featured on the home page, the full responsive navigation bar includes links to the Home page, Gallery and Sign Up page to allow for easy navigation.
 
   This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-
-
-
-
-
 
 
 # The landing page image
