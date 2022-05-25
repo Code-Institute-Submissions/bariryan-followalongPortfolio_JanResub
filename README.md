@@ -5,7 +5,8 @@ Welcome to Hi, I'm Barry. Visit the site
 
 This is the oline gallery and shop for me, Barry Ryan. It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. 
 
-I hope that this site can be a connection hub to meet both my clients interests and exhibite my work to a wider audience online.
+I hope that this site can be a connection hub to meet both my clients interests and exhibit
+ my work to a wider audience online.
 
 # Features 
 
@@ -34,13 +35,14 @@ Also the use of icons on the main page attempt to consolidate all affilate socia
  This page will allow the user to get signed up to Hi, I'm Barry to start their communication with the Artist. The user will be able specify if they would like to commission new work or buy exsisting work. The user will be asked to submit their full name and email address with the option of leaving a comment if nessecceary. 
 
  # User expectations
+
  * as a user, I want to purchase work directly from the Artist.
- * as a user, I want to commission original projects with the Artist.  
+ * as a user, I want to commission original projects from the Artist in person.  
+ * as a user, I want to see the work of the Artist Barry Ryan.
 
  ## Testing 
 
-This website has been designed and implemented with all modern devices and screen resolutions in mind. Therefore a fully responsive layout for all devices has been a crucial concern for the website Hi, I'm Barry.
-
+This website has been designed and implemented with all modern devices and screen resolutions in mind. Therefore a fully responsive layout for all devices has been a crucial concern form the outset.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
@@ -59,9 +61,7 @@ If this section grows too long, you may want to split it off into a separate fil
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
+ 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -71,22 +71,10 @@ The live link can be found here - https://bariryan.github.io/followalongPortfoli
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
 The inital idea of a tab based system which uses css and flexbox to style a simple tab based navigation must be credited to 
  [https://codepen.io/josh_vogt/pen/EaaZbP] 
 
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+
