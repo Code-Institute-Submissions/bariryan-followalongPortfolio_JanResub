@@ -13,26 +13,31 @@ I hope that this site can be a connection hub to meet both my clients interests 
 ![hello](https://github.com/bariryan/followalongPortfolio/blob/master/assets/images/mastermockup.png)
 
 
-## CSS Flexbox and Responsive Design
+## Responsive design
 
-I have created a portfolio to showcase my skills and projects. To achieve this, I implemented the following -
-
- created fluid layouts throughout the page with a mixture of Grid and Flexbox. The app is fully responsive on multiple screen widths.
+This website has been designed and implemented with all modern devices and screen resolutions in mind. Therefore a fully responsive layout for all devices has been a crucial concern form the outset. For this task I chose the css framework Flexbox as implemented by the World Wide Web Consortim WC3. I have created fluid layouts throughout the page with a mixture of Grid and Flexbox. The app is fully responsive on multiple screen widths.
 
  
-## Navigation Bar
+  ## Tabbed Navigation system
 
-  Featured on the home page, the full responsive navigation bar includes links to the Home page, Gallery and Sign Up page to allow for easy navigation.
+  Featured on the home page, the fully responsive 'tabbed' style navigation bar includes links to the Home page, Gallery and Sign Up page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-  This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  This visual layout enabled me to seperate the content in a meaningful way whilst also letting people know excatly where they are on your website. 
+
+  ## Hover-over gallery display
+
+  The gallery features a hover-over animation (CSS) to show the imgae in color only when the user hovers the mouse over the image. This is the only way to acess any colour withing the entire site. This choice was deliberate and intended to maximise the visual impact of the finished gallery paintings.
+
+  
+ ## Contact form Sign up 
+
+  This page will allow the user to get signed up to Hi, I'm Barry to start their communication with the Artist. The user will be able specify if they would like to commission new work or buy exsisting work. The user will be asked to submit their full name and email address with the option of leaving a comment if nessecceary. 
 
  ## H1 Fontawesome and Google Fonts
 
-Also the use of icons on the main page attempt to consolidate all affilate social media links into a consise visual representation which is easy to recognise and navigate.
+  Also the use of icons on the main page attempt to consolidate all affilate social media links into a consise visual representation which is easy to recognise and navigate.
 
- ## Contact form Sign up 
 
- This page will allow the user to get signed up to Hi, I'm Barry to start their communication with the Artist. The user will be able specify if they would like to commission new work or buy exsisting work. The user will be asked to submit their full name and email address with the option of leaving a comment if nessecceary. 
 
  # User expectations
 
@@ -42,7 +47,7 @@ Also the use of icons on the main page attempt to consolidate all affilate socia
 
  ## Testing 
 
-This website has been designed and implemented with all modern devices and screen resolutions in mind. Therefore a fully responsive layout for all devices has been a crucial concern form the outset.
+
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
