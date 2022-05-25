@@ -47,23 +47,22 @@ This website has been designed and implemented with all modern devices and scree
 
 
 ## Testing
-All links were checked
 
+All links were checked with the W3C link checker and found to be operational.
 
 
 ## Validator Testing 
 
-- HTML
-   At present there are 10 issues with HTML validation through the official W3C HTML Validation Service
-- CSS
-   No errors were found when passing through the official W3C CSS Validation Service
+At present there are 10 issues with HTML validation through the official W3C HTML Validation Service
+
+No errors were found when passing through the official W3C CSS Validation Service
 
 ## Deployment
  
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+ The site was deployed to GitHub pages. The steps to deploy are as follows: 
+   In the GitHub repository, navigate to the Settings tab 
+   From the source section drop-down menu, select the Master Branch
+   Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://bariryan.github.io/followalongPortfolio/
 
