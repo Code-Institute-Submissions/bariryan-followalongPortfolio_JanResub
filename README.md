@@ -10,6 +10,12 @@ This is the oline gallery and shop for me, Barry Ryan. It provides a convenient 
 I hope that this site can be a connection hub to meet both my clients interests and exhibit
  my work to a wider audience online.
 
+## User expectations
+
+ * as a user, I want to purchase work directly from the Artist.
+ * as a user, I want to commission original projects from the Artist in person.  
+ * as a user, I want to see the work of the Artist Barry Ryan.
+
 # Features 
 
 ![hello](https://github.com/bariryan/followalongPortfolio/blob/master/assets/images/mastermockup.png)
@@ -39,11 +45,7 @@ This website has been designed and implemented with all modern devices and scree
 
  # Development
 
- ## User expectations
 
- * as a user, I want to purchase work directly from the Artist.
- * as a user, I want to commission original projects from the Artist in person.  
- * as a user, I want to see the work of the Artist Barry Ryan.
 
 
 ## Testing
