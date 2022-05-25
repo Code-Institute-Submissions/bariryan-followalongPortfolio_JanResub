@@ -1,6 +1,8 @@
 # Hi, I'm Barry
 
-Welcome to Hi, I'm Barry. Visit the site  
+# Description 
+
+Welcome to Hi, I'm Barry. You can visit this site  
 [here](https://bariryan.github.io/followalongPortfolio/) 
 
 This is the oline gallery and shop for me, Barry Ryan. It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. 
@@ -44,13 +46,17 @@ This website has been designed and implemented with all modern devices and scree
  * as a user, I want to see the work of the Artist Barry Ryan.
 
 
+## Testing
+All links were checked
+
+
+
 ## Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+   At present there are 10 issues with HTML validation through the official W3C HTML Validation Service
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
+   No errors were found when passing through the official W3C CSS Validation Service
 
 ## Deployment
  
